@@ -1,0 +1,3 @@
+Team: Yu Cai, Dui Lin
+Since we are requried to perform search over the union of item name category and description, and retrieve the ItemID and Name, we built index on ItemID, item name, category and description. So we extract the ItemID, name, description from the table Item and category from the table Category, and then insert them as index.
+By doing so, we are also able to search Item based on its ItemID.
