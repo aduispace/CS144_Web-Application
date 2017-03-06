@@ -1,2 +1,1 @@
-We used one-day grace period for project 4.
-Please pay attention, thank you so much!
+Please note that We have used one-day grace period for this project, thank you!
